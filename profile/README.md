@@ -10,7 +10,7 @@ Lightweight and fast — no downloads, no setup, just instant access to a new ki
 
 1. Go to **[hubbleplay.github.io](https://hubbleplay.github.io)**
 2. Click the **Hubble** button
-3. Click games, and start playing!
+3. Click **Games** in the sidebar, and start playing!
 > ✅ Works on all modern desktop browsers (Chrome, Firefox, Edge)
 
 ---
