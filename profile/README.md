@@ -1,4 +1,4 @@
-# Hubble
+![Hubble Logo](https://raw.githubusercontent.com/hubbleplay/.github/refs/heads/main/hubble-title.png)
 
 **Hubble** is a web-based social platform that combines text posts with quick and live messaging, user profiles, and games new and loved.
 
