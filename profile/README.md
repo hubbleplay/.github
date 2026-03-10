@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hubbleplay/.github/refs/heads/main/hubble-title.png?raw=true" alt="Hubble Logo" width="1000" height="1000"/>
+  <img src="https://raw.githubusercontent.com/hubbleplay/.github/refs/heads/main/hubble-title.png?raw=true" alt="Hubble Logo" width="500" height="500"/>
 </p>
 
 **Hubble** is a web-based social platform that combines text posts with quick and live messaging, user profiles, and games new and loved.
