@@ -25,7 +25,8 @@ We made an external site, **[h-current.github.io](https://h-current.github.io)**
 ## ✨ Features
 
 - 🎮 **Games** — Play and enjoy games you know and love and a few titles that you just might like
-- 📢 **Chatbot** — Ask anything-from general questions to your school work
+
+Coming soon:
 - 📮 **Posts** — Announce an opinion, a new hobby, or anything!
 - 💬 **Private Messaging** — Send private and direct messages to other users and send messages to multiple people at the same time with group chats
 - 👤 **User Profiles** — Follow others, collect badges, make a bio, and build your presence
