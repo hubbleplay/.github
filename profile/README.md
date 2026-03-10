@@ -17,14 +17,14 @@ Lightweight and fast — no downloads, no setup, just instant access to a new ki
 
 ## 🌧️ In case of the worst...
 
-In case of **Hubble** being blocked, we have come up with a quit simple solution.
-We made an external site, **[h-current.github.io](https://h-current.github.io)**, to house the crutial information of what the new link is. Now, it will take up to a day for the link to be upated but don't worry, it won't be long.
+In case of **Hubble** being blocked, we have come up with a quite simple solution.
+We made an external site, **[h-current.github.io](https://h-current.github.io)**, to house the crucial information of what the new link is. Now, it will take up to a day for the link to be upated but don't worry, it won't be long.
 
 ---
 
 ## ✨ Features
 
-- 🎮 **Games** — Play and enjoy games you know and love and a few titles that you just might like
+- 🎮 **Games** — Play and enjoy games you know and love, and a few titles that you just might like
 
 Coming soon:
 - 📮 **Posts** — Announce an opinion, a new hobby, or anything!
