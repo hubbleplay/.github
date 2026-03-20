@@ -10,7 +10,7 @@ Lightweight and fast — no downloads, no setup, just instant access to a new ki
 
 ## 🚀 How to Set-Up
 
-1. Go to **[hubbleplay.github.io](https://hubbleplay.github.io)**
+1. Go to **[hubbleplay.onrender.com](https://hubbleplay.onrender.com)**
 2. Click the **Hubble** button
 3. Click **Games** in the sidebar, and start playing!
 > ✅ Works on all plane chromium desktop browsers (Chrome, Edge; not all features work on Firefox)
